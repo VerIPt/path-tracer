@@ -1,13 +1,13 @@
-Java Pathtracer basierend auf "Physically Based Rendering: From Theory to Implementation"
+# Java Pathtracer basierend auf "Physically Based Rendering: From Theory to Implementation"
 Dieses Repository enthält eine Java-Implementierung eines Pathtracers, der auf den Konzepten und Algorithmen basiert, die in dem Buch "Physically Based Rendering: From Theory to Implementation" beschrieben sind. Das Ziel dieses Projekts ist es, die Theorien und Implementierungsdetails des physikbasierten Renderings zu erforschen und anzuwenden, um realistische Bilder zu erzeugen.
 
-Features
+## Features
 Implementierung eines Pathtracing-Algorithmus in Java
 Unterstützung verschiedener Materialtypen und Lichtquellen
 Integration einer benutzerfreundlichen Schnittstelle zur Steuerung der Rendering-Parameter
 Voraussetzungen
 
-Beispiele
+## Beispiele
 Hier sind einige Beispielbilder, die mit diesem Pathtracer erzeugt wurden:
 
 ![a05-diffuse-spheres](https://github.com/VerIPt/path-tracer/assets/93347213/48a2a038-4b3c-4712-9dfe-b04b137dece6)
